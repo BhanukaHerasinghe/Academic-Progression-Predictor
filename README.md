@@ -2,7 +2,9 @@
 This is my python project to predict progression outcomes at the end of each academic year 
 
 Progression outcomes as defined by the University redulations![Academic progression]
-(https://github.com/BhanukaHerasinghe/Academic-Progression-Predictor/assets/124506514/1fc10224-9da9-4a85-98ce-d5ff61e28165)
+
+![Academic progression](https://github.com/BhanukaHerasinghe/Academic-Progression-Predictor/assets/124506514/191d5d45-ce12-4a77-bb54-34c09828384e)
+
 
 
 <h1>Part 1 Main Version (Student & Staff Version)</h1>
