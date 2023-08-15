@@ -109,7 +109,7 @@ Excluded 0  :
 ================================================================================
 
 
-<h2> Part 2  Vertical Histogram (extension) ( Part 02- Vertical Histogram.py) </h2>
+<h1> Part 2  Vertical Histogram (extension) ( Part 02- Vertical Histogram.py) </h1>
 
 ** Extend version of part 01 program to add a vertical histogram 
 
@@ -117,7 +117,7 @@ Excluded 0  :
 ![Vertical_histogram](https://github.com/BhanukaHerasinghe/Academic-Progression-Predictor/assets/124506514/a3c3dfe1-5a41-4bd7-8808-1189584d211c)
 
 
-<h3> Part 3 - List /Tuple/Directory (extension) (Part 3 - List,Tuple,Directory.py) </h3>
+<h1> Part 3 - List /Tuple/Directory (extension) (Part 3 - List,Tuple,Directory.py) </h1>
 
 ** Extended version , so that the program uses Python to save  the input progression data to a list,tuple or dirctory. Then access the stored data the list,tuple,directory and print the data in the following format below.
 
@@ -132,7 +132,7 @@ Module retriever -  80,20,20
 Module retriever -  60,20,40
 
 
-<h4> Part 4 - Text File (Extension) (Part 4 Text file.py ) </h4>
+<h1> Part 4 - Text File (Extension) (Part 4 Text file.py ) </h1>
 
 ** This scipt will save input Progression data to a text file. Later in the program ,access the stored data and print out as shown below.
 
